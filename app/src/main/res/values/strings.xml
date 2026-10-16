@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mitra AI</string>
+    <string name="tagline">Aapka Smart AI Assistant</string>
+    <string name="calling_assistant">Calling</string>
+    <string name="whatsapp_assistant">WhatsApp</string>
+    <string name="instagram_assistant">Instagram</string>
+    <string name="chat_assistant">AI Chat</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Mitra AI",
+  "description": "Smart AI assistant for phone calling, WhatsApp messages, Instagram comments and captions with voice and Hindi/English support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
